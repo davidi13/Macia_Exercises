@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="string1">Is the sky blue?</string>
+    <string name="string2">Guns are legal in Spain?</string>
+    <string name="string3">Can pigs fly?</string>
+    <string name="False">False</string>
+    <string name="True">True</string>
+</resources>
